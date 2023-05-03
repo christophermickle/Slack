@@ -46,7 +46,7 @@ function Nav() {
               <BsChatQuoteFill size="1.2em" class="mr-4 flex items-center " />
               Talk to sales
             </a>
-            <a href="#" class="capitalize bg-slate-900 text-white p-4">
+            <a href="#" class="capitalize bg-slate-900 text-white p-4 md:">
               Login / Register
             </a>
           </div>
